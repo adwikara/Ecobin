@@ -1,0 +1,15 @@
+{
+    "bottle": 0, 
+    "carton": 1, 
+    "compostable_containers": 2, 
+    "cup": 3, 
+    "food": 4, 
+    "fruit": 5, 
+    "general_glass": 6, 
+    "general_plastic": 7, 
+    "general_recyclable": 8, 
+    "general_trash": 9, 
+    "leafy_greens": 10, 
+    "metal_can": 11, 
+    "utensils": 12
+}

@@ -1,0 +1,9 @@
+keras>=2.2.2
+tensorflow==1.5
+pymongo
+requests
+flask
+flask_httpauth
+numpy
+scipy
+pillow>= 5.2.0

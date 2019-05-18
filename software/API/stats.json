@@ -1,0 +1,23 @@
+{
+    "stats": 
+    [
+        {
+            "id" : "0",
+            "type" : "Recyclable",
+            "accuracy" : "0.9238",
+            "object" : "cup"
+        },
+        {
+            "id" : "1",
+            "type" : "Recyclable",
+            "accuracy" : "0.9238",
+            "object" : "bottle"
+        },
+        {
+            "id" : "2",
+            "type" : "Trash",
+            "accuracy" : "0.9238",
+            "object" : "food"
+        }
+    ]
+}
